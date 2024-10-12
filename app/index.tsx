@@ -85,7 +85,6 @@ const styles = StyleSheet.create({
 
   }
   
-  p.solid{border-style: solid; }
 
 
 });
