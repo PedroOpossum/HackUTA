@@ -20,4 +20,9 @@ expo-env.d.ts
 # @end expo-cli.env
 
 # env
+<<<<<<< HEAD
 .env
+=======
+.env
+.vercel
+>>>>>>> a3bf0178afb6b7db011a60cc53b69350c1856e7c
